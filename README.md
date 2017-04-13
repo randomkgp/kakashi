@@ -37,7 +37,7 @@ git clone https://github.com/metakgp/kakashi.git ~/kakashi
 
 * Change current directory  to `~/kakashi`
 ```
-cd ~/.kakashi
+cd ~/kakashi
 ```
 * Run the script
 
