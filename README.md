@@ -35,7 +35,7 @@ URL of metakgp is https://wiki.metakgp.org/w/Main_Page and enter any short name.
 git clone https://github.com/metakgp/kakashi.git ~/kakashi
 ```
 
-* Change current directory  to '~/kakashi'
+* Change current directory  to `~/kakashi`
 ```
 cd ~/.kakashi
 ```
