@@ -25,16 +25,17 @@ wget https://gist.githubusercontent.com/hargup/973348fcbcec464dc807/raw/de0bde7f
 ```
 python generate_family_file.py
 ```
+
 The script will ask you to insert URL to wiki and a short name of wiki.
 URL of metakgp is https://wiki.metakgp.org/w/Main_Page and enter any short name.
-```
+
 
 * Clone `kakashi`
 ```
 git clone https://github.com/metakgp/kakashi.git ~/kakashi
 ```
 
-* Change to '~/kakashi'
+* Change current directory  to '~/kakashi'
 ```
 cd ~/.kakashi
 ```
